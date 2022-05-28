@@ -1,0 +1,29 @@
+/*
+
+Theme name: SBHOST
+Version: 1.0.0
+Theme URI: www.superbangla.com
+Author: Lisan E.
+Author URI: www.learnwithlisan.com
+Description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit dolorum eligendi laboriosam officia adipisci odio blanditiis magnam maiores, eaque sit accusamus dignissimos similique nihil libero nobis nisi temporibus laudantium quae maxime sed, quasi repellat quos! Impedit ab quae tempora, a animi, optio quo dolor facere voluptates facilis odit totam? Eaque.
+Tags: bnn news, best news bd,
+Text Domain: kohost
+
+*/
+
+/* Here is our custom css */
+.author-avatar > img {width: 65px !important;height: 65px !important;border-radius: 50%;padding: 2px;border: 1px solid #f67a3c}
+.sub-menu {display: none}
+a.nav-link.custom-nav-link.main-link-toggle.sub-menu-nav-link{color: #000 !important;padding: 5px 15px}
+.hs-sub-menu{min-width: 150px !important}
+.menu-item{padding-left: 0 !important;}
+.main-link-toggle::after {display: none;}
+li {list-style: none !important;}
+ul.footer_styl > li > a {padding: 0 0 !important;color: #fffbfa;}
+ul.footer_styl > li > a:hover {color: #fff !important;}
+.widget {margin-bottom: 0 !important}
+.header-main{height: 65px !important}
+section.ptb-100.overflow-hidden.hero-equal-height.dark-bg{margin-top: -65px !important}
+.navbar-nav>li>a{color: #17c96a !important}
+.entry{width: 1200px !important;margin: auto !important;max-width: 100% !important}
+.bg-transparent button.navbar-toggler span{color: #17c96a !important}
